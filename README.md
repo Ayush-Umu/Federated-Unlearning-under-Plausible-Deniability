@@ -12,13 +12,13 @@ Experimental details:
 
 **Comparison of the test accuracy fedEraser, fedAvg_retrained, and our approach (perturbed k-IPfedAvg):**
 
-<img width="800" alt="Screenshot 2024-08-14 at 14 40 55" src="https://github.com/user-attachments/assets/0016e8d0-a7e3-492a-89d4-52bb2aff58ed">
+<img width="800" alt="Screenshot 2024-08-14 at 14 40 55" src="https://github.com/user-attachments/assets/1494bed8-dbec-4fe1-b1a7-ec10952fd01f">
 
 **Disk Space comparison between fedEraser and our model:**
 
-<img width="600" alt="Screenshot 2024-08-14 at 14 41 27" src="https://github.com/user-attachments/assets/92c383dd-3d1e-4e78-99ec-6bc3f8d9effe">
+<img width="800" alt="Screenshot 2024-08-14 at 14 41 27" src="https://github.com/user-attachments/assets/2e773c66-6e4d-4741-b3ae-6746bbe1fff1">
 
 **Running wall-clock time comparison:**
 
-<img width="800" alt="Screenshot 2024-08-14 at 14 41 51" src="https://github.com/user-attachments/assets/b206ab9e-438b-43aa-8905-44ca63ce651a">
+<img width="800" alt="Screenshot 2024-08-14 at 14 41 51" src="https://github.com/user-attachments/assets/c6d21d9b-1b40-4381-ba10-fbb396ec6385">
 
